@@ -86,3 +86,9 @@ Realiza consultas para responder preguntas específicas, como:
 - ¿Qué director tiene más películas premiadas?
 - ¿Cuál es la película mejor valorada en IMDB?
 - ¿Qué actor/actriz ha recibido más premios?
+
+
+### Next Steps:
+- Mejorar el formato de las tablas
+- Cargar los datos de la última tabla
+- Hacer una query
