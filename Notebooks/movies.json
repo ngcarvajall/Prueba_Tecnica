@@ -1,0 +1,2671 @@
+{
+    "page": 1,
+    "next": "/titles?titleType=movie&genre=Drama&sort=year.incr&limit=50&startYear=2024&endYear=2024&page=2",
+    "entries": 50,
+    "results": [
+        {
+            "_id": "61e58ea278c012aa34446beb",
+            "id": "tt10579986",
+            "primaryImage": {
+                "id": "rm878544897",
+                "width": 1217,
+                "height": 1792,
+                "url": "https://m.media-amazon.com/images/M/MV5BYjgyN2RjZWEtYzRjYy00ZGEyLWI4MTItNjk5OGI1YThhZWNlXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Mom's Coming (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Mom's Coming",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Mom's Coming",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 24,
+                "month": 11,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58eb8cffb8f2faa4472a7",
+            "id": "tt10597228",
+            "primaryImage": {
+                "id": "rm3631292161",
+                "width": 1010,
+                "height": 1440,
+                "url": "https://m.media-amazon.com/images/M/MV5BNjk4ZGZjMmUtYWYwMS00NDczLTgxYTMtZTQ4NzMwNDAyY2E5XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Love Song and Power (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Love Song and Power",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Love Song and Power",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 1,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e591b595801a78bc452f8f",
+            "id": "tt11097384",
+            "primaryImage": {
+                "id": "rm2460893441",
+                "width": 1000,
+                "height": 1500,
+                "url": "https://m.media-amazon.com/images/M/MV5BNGY0NDk5YjYtMTI0Zi00ZDc4LTk3NzEtYmUyNDNlN2U1ZmYwXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Adam Sandler in Spaceman (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Spaceman",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Spaceman",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 3,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e59206d735dff3f945429f",
+            "id": "tt11152168",
+            "primaryImage": {
+                "id": "rm3105193473",
+                "width": 400,
+                "height": 593,
+                "url": "https://m.media-amazon.com/images/M/MV5BZjc1Y2UxNDItMDg4Zi00OGVmLWEwYzEtNmE1MWM1YzYwZjNiXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Louis Gossett Jr., Ryan Reynolds, Sam Rockwell, Steve Carell, Bill Hader, John Krasinski, Emily Blunt, Phoebe Waller-Bridge, and Cailey Fleming in Amigos imaginarios (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Amigos imaginarios",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "IF",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 17,
+                "month": 5,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e595f8909c2ca7814638d3",
+            "id": "tt11822244",
+            "primaryImage": {
+                "id": "rm731067905",
+                "width": 1074,
+                "height": 1325,
+                "url": "https://m.media-amazon.com/images/M/MV5BZmJiMmU3OTYtMTM2OC00MTgyLWJkMzktYzcxMzE5YzFmZDk2XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Manje Bistre 3 (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Manje Bistre 3",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Manje Bistre 3",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 26,
+                "month": 7,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e59bfd971a4a15d647b923",
+            "id": "tt12861438",
+            "primaryImage": {
+                "id": "rm1720314881",
+                "width": 1252,
+                "height": 1843,
+                "url": "https://m.media-amazon.com/images/M/MV5BODQ1MjhlYmEtOGYwMy00YzkzLWFlNTAtYmE0MGMyMzUxNWY2XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Yi dao tian tang (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Yi dao tian tang",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Yi dao tian tang",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": null,
+                "month": null,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e59cffd8f3c0931e47fb27",
+            "id": "tt13036100",
+            "primaryImage": {
+                "id": "rm3938689281",
+                "width": 998,
+                "height": 930,
+                "url": "https://m.media-amazon.com/images/M/MV5BNWYzNTczZjMtNzM2OS00ZmNlLWIzNzktYjZhYjhlYzc0Mjc5XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Broken Glass (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Broken Glass",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Broken Glass",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 14,
+                "month": 2,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e59f46d8f3c0931e488df9",
+            "id": "tt13433802",
+            "primaryImage": {
+                "id": "rm3096017921",
+                "width": 2025,
+                "height": 3000,
+                "url": "https://m.media-amazon.com/images/M/MV5BMDdjZTljZWMtMDIwNi00MTA5LTkxZmItNmY0NDA3ZDM0N2M2XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Lupita Nyong'o and Joseph Quinn in F\u0103r\u0103 zgomot: Ziua 1 (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "F\u0103r\u0103 zgomot: Ziua 1",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "A Quiet Place: Day One",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 28,
+                "month": 6,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5a002b597b91eb948b8ab",
+            "id": "tt13561128",
+            "primaryImage": {
+                "id": "rm3249220865",
+                "width": 3000,
+                "height": 4500,
+                "url": "https://m.media-amazon.com/images/M/MV5BODg3ZmFiZjItNjllZS00NjNlLWE2NGUtYTI5OTczOGY3MWM5XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Three Couples Freed (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Three Couples Freed",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Three Couples Freed",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 1,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5a175909c2ca7814918ab",
+            "id": "tt13818368",
+            "primaryImage": {
+                "id": "rm602689025",
+                "width": 1418,
+                "height": 2048,
+                "url": "https://m.media-amazon.com/images/M/MV5BYmJiYzZhOTktNGIzNy00YjljLWI3ZDgtZGU2YWMzNGQ1YjQ5XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Hrithik Roshan, Anil Kapoor, Akshay Oberoi, Deepika Padukone, and Karan Singh Grover in Fighter (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Fighter",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Fighter",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 25,
+                "month": 1,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5a334e1a8ddbd96498c23",
+            "id": "tt14117392",
+            "primaryImage": {
+                "id": "rm2201772545",
+                "width": 1065,
+                "height": 1600,
+                "url": "https://m.media-amazon.com/images/M/MV5BOWEwMGI1MmUtZjJjOC00NmJjLWJiZGMtNGJmNmZjOWQ1YjJlXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Julian Glover, Niamh James, and Jaime Winstone in An Irish Angel (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "An Irish Angel",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "An Irish Angel",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 15,
+                "month": 4,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5a40578c012aa3449b9a1",
+            "id": "tt14257662",
+            "primaryImage": {
+                "id": "rm3703340289",
+                "width": 810,
+                "height": 1200,
+                "url": "https://m.media-amazon.com/images/M/MV5BMzcwOTg4NzEtMGYwNi00MDc2LTlhNWYtNjFiMDM1ODA1MWYxXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "MoviePass, MovieCrash (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "MoviePass, MovieCrash",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "MoviePass, MovieCrash",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 29,
+                "month": 5,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5a551971a4a15d64a105f",
+            "id": "tt14478740",
+            "primaryImage": {
+                "id": "rm2368217857",
+                "width": 3840,
+                "height": 5760,
+                "url": "https://m.media-amazon.com/images/M/MV5BNzYzM2UzYjktMDEyMy00NjZiLWI3ZjUtOWM1NzM0ZjU3OTYwXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Rhapsody in Justice (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Rhapsody in Justice",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Rhapsody in Justice",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 27,
+                "month": 8,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5a5d0909c2ca7814a2ed7",
+            "id": "tt14564000",
+            "primaryImage": {
+                "id": "rm3572253441",
+                "width": 1717,
+                "height": 2147,
+                "url": "https://m.media-amazon.com/images/M/MV5BNTkwNDIwZDctNzQ5NC00OTcwLWIzMTEtNWM1MWRkMjg3OTYwXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Sreeleela in Guntur Kaaram (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Guntur Kaaram",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Guntur Kaaram",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 12,
+                "month": 1,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5a647e1a8ddbd964a50ab",
+            "id": "tt14643262",
+            "primaryImage": {
+                "id": "rm581092865",
+                "width": 1080,
+                "height": 1440,
+                "url": "https://m.media-amazon.com/images/M/MV5BYTVkYzlhNTEtYWUzNi00YThhLTg5MzQtMzk4ODczZWMyM2FiXkEyXkFqcGdeQXVyMTMyNDkzMjkz._V1_.jpg",
+                "caption": {
+                    "plainText": "Noda Hitam Dalam Pelukan (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Noda Hitam Dalam Pelukan",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Noda Hitam Dalam Pelukan",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 25,
+                "month": 11,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5a7c9d735dff3f94aaf43",
+            "id": "tt14904970",
+            "primaryImage": {
+                "id": "rm4013619713",
+                "width": 2250,
+                "height": 1186,
+                "url": "https://m.media-amazon.com/images/M/MV5BOTdiMjc3YWYtOTIwNC00MGQ4LWI1NDUtZGM1ZjNlNGM0YTBkXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "La Puerta Verde (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "La Puerta Verde",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "La Puerta Verde",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 17,
+                "month": 8,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5a839b597b91eb94ac65b",
+            "id": "tt14978566",
+            "primaryImage": {
+                "id": "rm2422108417",
+                "width": 1426,
+                "height": 1952,
+                "url": "https://m.media-amazon.com/images/M/MV5BNmUyM2U4N2MtMmNjYy00NWNkLWFiNDAtNjExYmEzMmNmZWZlXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Dylan Leonard, Andrii Zhebrovskyi, Emersyn Wright, Karin Kunzo, Dean Dawson, Matt Reznek, and Brenna Llewellyn in The Hippie Who Came to Roam (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "The Hippie Who Came to Roam",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "The Hippie Who Came to Roam",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 31,
+                "month": 12,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5a85eef99b1c5434ad25d",
+            "id": "tt15005992",
+            "primaryImage": {
+                "id": "rm3160799233",
+                "width": 3620,
+                "height": 4000,
+                "url": "https://m.media-amazon.com/images/M/MV5BMDdmOGFhODktMTZiNi00NTM2LTg2YTctMWZmNTczMDk3YTc4XkEyXkFqcGdeQXVyMTI2ODQwNjgy._V1_.jpg",
+                "caption": {
+                    "plainText": "Gene Mookie Cunningham in Daddy U Misspelled Father (2022)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Mookie Mayberry: Laugh, Live A Little",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Mookie Mayberry: Laugh, Live A Little",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": null,
+                "month": null,
+                "year": null,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5a9c1d735dff3f94b2d17",
+            "id": "tt15239678",
+            "primaryImage": {
+                "id": "rm1391346433",
+                "width": 2764,
+                "height": 4096,
+                "url": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Javier Bardem, Josh Brolin, Stellan Skarsg\u00e5rd, Rebecca Ferguson, Dave Bautista, Austin Butler, Timoth\u00e9e Chalamet, Zendaya, Florence Pugh, and Souheila Yacoub in Kopa. Antra dalis (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Kopa. Antra dalis",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Dune: Part Two",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 15,
+                "month": 3,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5aad6d735dff3f94b7247",
+            "id": "tt15427838",
+            "primaryImage": {
+                "id": "rm955005441",
+                "width": 3300,
+                "height": 5100,
+                "url": "https://m.media-amazon.com/images/M/MV5BMjczMzYzMmYtNDJhYy00YjViLWIzM2UtNTE4NGE0YTk0NWIyXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Sedric Willis, Samantha Oliver, Michael Goldberg, Nick Roy, Madison Hodges, Kevin Austra, Gail Wagner, and Kerwin Gonzalez in Backstage (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Backstage",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Backstage",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": null,
+                "month": 4,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5ab7178c012aa344b93ab",
+            "id": "tt15535164",
+            "primaryImage": {
+                "id": "rm945747457",
+                "width": 2000,
+                "height": 3000,
+                "url": "https://m.media-amazon.com/images/M/MV5BZGEwNGE4OGItYTM5YS00NjNhLWE2MmMtMjE3Njg2YzJjOTY2XkEyXkFqcGdeQXVyNzI4OTc4Mzg@._V1_.jpg",
+                "caption": {
+                    "plainText": "Sunset Shimmer in Sunset Shimmer and the Acidic Universe of Makori (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Sunset Shimmer and the Acidic Universe of Makori",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Sunset Shimmer and the Acidic Universe of Makori",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 22,
+                "month": 12,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5c48ba66e59642351910d",
+            "id": "tt5834410",
+            "primaryImage": {
+                "id": "rm413420289",
+                "width": 4500,
+                "height": 6000,
+                "url": "https://m.media-amazon.com/images/M/MV5BNTljMWNkOTgtYjFlMC00NzcxLWFhMTktMDhmZWIxMjBhNWJmXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Brandon Soo Hoo and Henry Golding in The Tiger's Apprentice (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "The Tiger's Apprentice",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "The Tiger's Apprentice",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 2,
+                "month": 2,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5d149d735dff3f9549c9d",
+            "id": "tt15791240",
+            "primaryImage": {
+                "id": "rm365357569",
+                "width": 1536,
+                "height": 2048,
+                "url": "https://m.media-amazon.com/images/M/MV5BNDMwMzgxZTAtYjYzZi00NzhlLWJlOTQtNWIwYmM1MTI1YjJmXkEyXkFqcGdeQXVyMTMwNzcwNTU1._V1_.jpg",
+                "caption": {
+                    "plainText": "David Siracusa in The Uncivil War (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "The Uncivil War",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "The Uncivil War",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 1,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5d247971a4a15d654dc45",
+            "id": "tt9134042",
+            "primaryImage": null,
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Ben's an Imposter",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Ben's an Imposter",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": null,
+                "month": null,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5d323d8f3c0931e5512e9",
+            "id": "tt15769770",
+            "primaryImage": {
+                "id": "rm809628929",
+                "width": 745,
+                "height": 1054,
+                "url": "https://m.media-amazon.com/images/M/MV5BM2FhYjY3ZWUtY2I5NS00OWM3LWIzZDItYzhiZTQ2YzUzNzBkXkEyXkFqcGdeQXVyMzQ5MjE5Nzc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Kumud Pant in Never Stop Dreaming (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Never Stop Dreaming",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Never Stop Dreaming",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 13,
+                "month": 5,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5d63e8a5a6a599f55db45",
+            "id": "tt16139258",
+            "primaryImage": {
+                "id": "rm1380931329",
+                "width": 674,
+                "height": 843,
+                "url": "https://m.media-amazon.com/images/M/MV5BZjAyYjZmMjQtNGZlNi00ZGQ0LTkxNTUtNWQ2YzA3MWJjYjc2XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Yodha (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Yodha",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Yodha",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 15,
+                "month": 3,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5d7a695801a78bc563347",
+            "id": "tt9810236",
+            "primaryImage": {
+                "id": "rm153582337",
+                "width": 2880,
+                "height": 4320,
+                "url": "https://m.media-amazon.com/images/M/MV5BNjA3NGE5MTctYjljZi00ZjkyLWI0ZWMtZjYzODRkZDc1NTVlXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Apophis 2029 (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Apophis 2029",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Apophis 2029",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 30,
+                "month": 12,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5d7bbcffb8f2faa563139",
+            "id": "tt15721572",
+            "primaryImage": null,
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "The Truck",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "The Truck",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 11,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61f01150b920fe0b8d24dcf9",
+            "id": "tt16913084",
+            "primaryImage": {
+                "id": "rm4731649",
+                "width": 1624,
+                "height": 2304,
+                "url": "https://m.media-amazon.com/images/M/MV5BOTk0NDdmZTEtOGJiMC00ZWY3LTk2NTktMWRhMDFiYjJhN2EzXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Jason Durgana in Case #111-878 (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Case #111-878",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Case #111-878",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 18,
+                "month": 11,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61f01b661a50b36f6afa9a11",
+            "id": "tt17037988",
+            "primaryImage": {
+                "id": "rm4151923713",
+                "width": 1414,
+                "height": 2000,
+                "url": "https://m.media-amazon.com/images/M/MV5BZDNiMGRhZjUtYTQ1My00MDQ3LWJiOTQtMzU0MTJmZTdjMTg4XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Cameron Ashplant, Brandon Ashplant, Dean Hollingsworth, Billy Slaughter, Dane Rhodes, and Andrew T Hislop in Last Flamingo of the Red Summer Sunset (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Last Flamingo of the Red Summer Sunset",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Last Flamingo of the Red Summer Sunset",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 2,
+                "month": 2,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61f01cc6dec42372f3013f49",
+            "id": "tt17073016",
+            "primaryImage": null,
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Pretty Russell",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Pretty Russell",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": null,
+                "month": null,
+                "year": null,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "620961645958d9e38a88e78d",
+            "id": "tt18213692",
+            "primaryImage": {
+                "id": "rm2116494337",
+                "width": 1400,
+                "height": 2100,
+                "url": "https://m.media-amazon.com/images/M/MV5BODkzNjgwODQtYmY3MS00ZWQyLWI5NDctZTBkMTBmM2YxNmVkXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Persona (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Persona",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Persona",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 14,
+                "month": 3,
+                "year": 2025,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "622a2cfa0ee9135e6b3b2949",
+            "id": "tt18556552",
+            "primaryImage": {
+                "id": "rm3438156801",
+                "width": 997,
+                "height": 1600,
+                "url": "https://m.media-amazon.com/images/M/MV5BMTM4ZWU2ZGQtY2EyYS00ZWVmLWFjMGQtNDhhMWQxNDdkYWVlXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "The Falling Sun (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "The Falling Sun",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "The Falling Sun",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 24,
+                "month": 11,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "624bfe0e1209a679c1675453",
+            "id": "tt19368948",
+            "primaryImage": {
+                "id": "rm4236319745",
+                "width": 536,
+                "height": 816,
+                "url": "https://m.media-amazon.com/images/M/MV5BNjY5NDQ3ZTctN2M4OC00YWRjLTg5NDUtMWRiM2I0OTE5MTMwXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "L'ora di tutti (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "L'ora di tutti",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "L'ora di tutti",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 9,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "6288a3c3ba56f864618d73f6",
+            "id": "tt20407238",
+            "primaryImage": {
+                "id": "rm1208691969",
+                "width": 6668,
+                "height": 10145,
+                "url": "https://m.media-amazon.com/images/M/MV5BMjY1MzBhMjUtOTY4NC00YTAzLTgzYTYtNTdiM2YwZTlkNTM1XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Gianluca Brundo, Silvia Fiorentini, and Gabriele Valentini in The Dream Fisher (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "The Dream Fisher",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "The Dream Fisher",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 21,
+                "month": 9,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "6288a3c5014c9ff11d8d73f8",
+            "id": "tt20411966",
+            "primaryImage": {
+                "id": "rm806518529",
+                "width": 4000,
+                "height": 6000,
+                "url": "https://m.media-amazon.com/images/M/MV5BYzNjZWQwMTMtNDc3MS00ZjIzLWI3MjAtNzk1OTMwNmIyNTM3XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Rico Morris in Should Have Waited (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Should Have Waited",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Should Have Waited",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 5,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "628de941cb9e901e5e881154",
+            "id": "tt20453194",
+            "primaryImage": {
+                "id": "rm2978565633",
+                "width": 2277,
+                "height": 3141,
+                "url": "https://m.media-amazon.com/images/M/MV5BZDA1ZWU0MjYtYzBiNS00MmJmLWI4NzItZWUxNDM1NjVkYWM0XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "The Satire (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "The Satire",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "The Satire",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 7,
+                "month": 12,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "62a4537e11b4aceb9816b84a",
+            "id": "tt20923242",
+            "primaryImage": {
+                "id": "rm3778901249",
+                "width": 2160,
+                "height": 2700,
+                "url": "https://m.media-amazon.com/images/M/MV5BNDhkNDI5ZjItMzE0MS00NGNjLWFmMjUtMTkxNzc5YTZmZmIyXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Our Family Pride (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Our Family Pride",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Our Family Pride",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": null,
+                "month": null,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "62ad8da6f373eaf42631172c",
+            "id": "tt21065476",
+            "primaryImage": {
+                "id": "rm2833986817",
+                "width": 1760,
+                "height": 2516,
+                "url": "https://m.media-amazon.com/images/M/MV5BMDUyYzA0NDUtNTdiNy00YzVhLWFhMjEtYzA3ZWE0MjgxYmZhXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Tom Sizemore, Robert LaSardo, Rafael Portillo, J. Vazquez, Lance Hunter, Kiana Rose Abhar, Elijah Hayes, Tisha Leigh, Nicolas Musser, Charles Lago, and Bryan Phares in The Donor (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "The Donor",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "The Donor",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 5,
+                "month": 4,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "631d9d1c05e66f040e4afcd2",
+            "id": "tt22022452",
+            "primaryImage": {
+                "id": "rm1568556801",
+                "width": 4050,
+                "height": 6000,
+                "url": "https://m.media-amazon.com/images/M/MV5BYWY3MDE2Y2UtOTE3Zi00MGUzLTg2MTItZjE1ZWVkMGVlODRmXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Lewis Black, Tony Hale, Liza Lapira, Amy Poehler, Phyllis Smith, Maya Hawke, Ad\u00e8le Exarchopoulos, Paul Walter Hauser, and Ayo Edebiri in \u00centors pe dos 2 (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "\u00centors pe dos 2",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Inside Out 2",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 14,
+                "month": 6,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "63394c79cf4f9a10e71091b7",
+            "id": "tt22394800",
+            "primaryImage": {
+                "id": "rm3100658689",
+                "width": 960,
+                "height": 1372,
+                "url": "https://m.media-amazon.com/images/M/MV5BY2RmZWNhODctZjdhYi00MjhiLThlMjMtMjAyNWMzZDZjM2M5XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Meral \u00c7etinkaya, Fikret Kuskan, Yasemin Yal\u00e7in, Ismail Hacioglu, Boran Aggedik, Melisa Pamuk, Melisa D\u00f6ngel, and Bu\u00e7e Buse Kahraman in Cem Karaca'nin G\u00f6zyaslari (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Cem Karaca'nin G\u00f6zyaslari",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Cem Karaca'nin G\u00f6zyaslari",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 26,
+                "month": 1,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "6382331ef641fb6e1305667b",
+            "id": "tt23461428",
+            "primaryImage": {
+                "id": "rm3429909249",
+                "width": 1273,
+                "height": 1783,
+                "url": "https://m.media-amazon.com/images/M/MV5BMzhmYjMwNjYtMjI1NS00NmY2LTkyMWItODdhOTc5NWRkYmI5XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Rajinikanth, Vishnu Vishal, Dhanya Balakrishna, and Vikranth in Lal Salaam (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Lal Salaam",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Lal Salaam",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 9,
+                "month": 2,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "63824016f641fb6e1305d684",
+            "id": "tt23747498",
+            "primaryImage": {
+                "id": "rm2940488705",
+                "width": 1280,
+                "height": 1920,
+                "url": "https://m.media-amazon.com/images/M/MV5BODg4OTJlYzAtNzEwYS00OGVhLTgyOTMtNmQyZWQzMjFhOWRiXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Onegin (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Onegin",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Onegin",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 7,
+                "month": 3,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "63a74a0800484a091cf82054",
+            "id": "tt24948640",
+            "primaryImage": {
+                "id": "rm3026856449",
+                "width": 1280,
+                "height": 627,
+                "url": "https://m.media-amazon.com/images/M/MV5BZGFiZTkxZWItMDg3MS00ZWQ2LWFmZmYtMjI5ZDI5ODI5MjI2XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Agent Narasimha-117 (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Agent Narasimha-117",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Agent Narasimha-117",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 31,
+                "month": 1,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "63bc60c94eb0103786461b8d",
+            "id": "tt25785988",
+            "primaryImage": {
+                "id": "rm2704689153",
+                "width": 852,
+                "height": 1200,
+                "url": "https://m.media-amazon.com/images/M/MV5BMDNiMDA1MTctMWQ3MC00YzVhLThlNDYtYmNiMmZkZjMyZjJmXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Hayatla Baris (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Hayatla Baris",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Hayatla Baris",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 23,
+                "month": 2,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "63c6edfcc2dfcbb3e032cc04",
+            "id": "tt26238738",
+            "primaryImage": {
+                "id": "rm3613408513",
+                "width": 407,
+                "height": 612,
+                "url": "https://m.media-amazon.com/images/M/MV5BNzZkZjQxMDYtMWIwMC00YjJhLTlkOTktY2Y3YzlhMjZlMzEwXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Vamp Camp: Being a Melodrama in Three Parts (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Vamp Camp: Being a Melodrama in Three Parts",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Vamp Camp: Being a Melodrama in Three Parts",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 25,
+                "month": 10,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "63d17a21a1dcc3e36ae8fcd3",
+            "id": "tt26439277",
+            "primaryImage": {
+                "id": "rm591678465",
+                "width": 1200,
+                "height": 1730,
+                "url": "https://m.media-amazon.com/images/M/MV5BOWJlNWUyYzktYWVkYS00ZWQ0LTlkYjktYmVlZWRmZDY1YzFiXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Mne tebya obeschali (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Mne tebya obeschali",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Mne tebya obeschali",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 18,
+                "month": 1,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "63d2cac4c835b91d140f492e",
+            "id": "tt26446278",
+            "primaryImage": {
+                "id": "rm638877441",
+                "width": 1080,
+                "height": 1350,
+                "url": "https://m.media-amazon.com/images/M/MV5BNTU0OTBmM2EtMGU3NS00MGUzLTlkNTAtMTUxMmVlMDZhZDRlXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Le Comte de Monte-Cristo (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Le Comte de Monte-Cristo",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Le Comte de Monte-Cristo",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 28,
+                "month": 6,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "63ed299ee48588c8a64004db",
+            "id": "tt26731216",
+            "primaryImage": {
+                "id": "rm3425659649",
+                "width": 7677,
+                "height": 11220,
+                "url": "https://m.media-amazon.com/images/M/MV5BOGVhZTRiNWYtY2U5OS00ZDg3LTgwNjctZjU5NmQ1ZWQ2ODk3XkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "A Forja: O Poder da Transforma\u00e7\u00e3o (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "A Forja: O Poder da Transforma\u00e7\u00e3o",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "The Forge",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 19,
+                "month": 9,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "63ed29bac376ceba914005e3",
+            "id": "tt26731970",
+            "primaryImage": {
+                "id": "rm3811070721",
+                "width": 2893,
+                "height": 4096,
+                "url": "https://m.media-amazon.com/images/M/MV5BYTQ1OGE3ZDEtMWQzYi00ODc3LTg0NzQtNzlmYjgzNGQyZDNhXkEyXkFqcGc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Yoake no subete (2024)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "displayableProperty": {
+                    "value": {
+                        "plainText": "",
+                        "__typename": "Markdown"
+                    },
+                    "__typename": "DisplayableTitleTypeProperty"
+                },
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "categories": [
+                    {
+                        "value": "movie",
+                        "__typename": "TitleTypeCategory"
+                    }
+                ],
+                "canHaveEpisodes": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Yoake no subete",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Yoake no subete",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 2024,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 9,
+                "month": 2,
+                "year": 2024,
+                "__typename": "ReleaseDate"
+            }
+        }
+    ]
+}

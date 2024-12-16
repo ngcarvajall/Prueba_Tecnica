@@ -1,0 +1,2032 @@
+{
+    "page": 1,
+    "next": "/titles?titleType=movie&genre=Comedy&sort=year.incr&limit=50&startYear=1990&endYear=2024&page=2",
+    "entries": 50,
+    "results": [
+        {
+            "_id": "61e58135d8f3c0931e41599d",
+            "id": "tt0090665",
+            "primaryImage": {
+                "id": "rm3771178240",
+                "width": 341,
+                "height": 475,
+                "url": "https://m.media-amazon.com/images/M/MV5BNzk3NjEyODcyNV5BMl5BanBnXkFtZTcwMjIyMDUyMQ@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Asfour Stah (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Asfour Stah",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Asfour Stah",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 8,
+                "month": 3,
+                "year": 1991,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5813ae1a8ddbd96415abb",
+            "id": "tt0091899",
+            "primaryImage": {
+                "id": "rm776920321",
+                "width": 651,
+                "height": 960,
+                "url": "https://m.media-amazon.com/images/M/MV5BMDYyN2IwNGQtMmQ0Yy00Nzc3LWE0NTQtYjYwNDhkOTNkY2Y4XkEyXkFqcGdeQXVyMTI0Nzk5NTQ2._V1_.jpg",
+                "caption": {
+                    "plainText": "O Escorpi\u00e3o Escarlate (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "O Escorpi\u00e3o Escarlate",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "O Escorpi\u00e3o Escarlate",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": null,
+                "month": null,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814778c012aa34415ca9",
+            "id": "tt0095840",
+            "primaryImage": {
+                "id": "rm1145151232",
+                "width": 333,
+                "height": 475,
+                "url": "https://m.media-amazon.com/images/M/MV5BMTM2NTY3Njk3Nl5BMl5BanBnXkFtZTcwMTEyNzEyMQ@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Payback (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Payback",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Payback",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": null,
+                "month": 4,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e581488a5a6a599f415cfd",
+            "id": "tt0097253",
+            "primaryImage": {
+                "id": "rm0245505",
+                "width": 1834,
+                "height": 2613,
+                "url": "https://m.media-amazon.com/images/M/MV5BZmZkZGM2MWQtMWVjZi00ZWM2LTk4MGEtZTI0ZjAzMDAyZjVlXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Juliusz Machulski in Dezha vyu (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Dezha vyu",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Dezha vyu",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 18,
+                "month": 4,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58148909c2ca781415ced",
+            "id": "tt0096506",
+            "primaryImage": {
+                "id": "rm350292992",
+                "width": 400,
+                "height": 571,
+                "url": "https://m.media-amazon.com/images/M/MV5BNzJhZWFhZmQtOWVkZS00NjY1LTkwMTgtOTM4MDEzMTFmZTEwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg",
+                "caption": {
+                    "plainText": "Zhong Ri nan bei he (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Zhong Ri nan bei he",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Zhong Ri nan bei he",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 10,
+                "month": 5,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58148cffb8f2faa415d2d",
+            "id": "tt0096830",
+            "primaryImage": {
+                "id": "rm1325392128",
+                "width": 1248,
+                "height": 1746,
+                "url": "https://m.media-amazon.com/images/M/MV5BNGY0NmZiODctYTkzNC00YjI4LTliYTQtOTNmZTc0NjQ2ZTQ4XkEyXkFqcGdeQXVyODI2MDA4NQ@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Aqu\u00ed huele a muerto... (\u00a1pues yo no he sido!) (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Aqu\u00ed huele a muerto... (\u00a1pues yo no he sido!)",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Aqu\u00ed huele a muerto... (\u00a1pues yo no he sido!)",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 26,
+                "month": 1,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58149d8f3c0931e415d35",
+            "id": "tt0095878",
+            "primaryImage": {
+                "id": "rm1531110400",
+                "width": 600,
+                "height": 949,
+                "url": "https://m.media-amazon.com/images/M/MV5BNWZlMTY5MmUtOTM1Zi00ZmM3LTgwM2YtZGM0ZmVhMjIxNzE5XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Pledge Night (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Pledge Night",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Pledge Night",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 7,
+                "month": 12,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814a78c012aa34415d2d",
+            "id": "tt0096845",
+            "primaryImage": {
+                "id": "rm4119532288",
+                "width": 350,
+                "height": 497,
+                "url": "https://m.media-amazon.com/images/M/MV5BZDA0OGQwOTctMzFmZi00NzZmLThjZTQtNzg3OGQ2YWRhYWIwXkEyXkFqcGdeQXVyNjQ4NjY1MjM@._V1_.jpg",
+                "caption": {
+                    "plainText": "Atlantic Rhapsody - 52 myndir \u00far T\u00f3rshavn (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Atlantic Rhapsody - 52 myndir \u00far T\u00f3rshavn",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Atlantic Rhapsody - 52 myndir \u00far T\u00f3rshavn",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 26,
+                "month": 1,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814a78c012aa34415d37",
+            "id": "tt0097365",
+            "primaryImage": {
+                "id": "rm3189978112",
+                "width": 1991,
+                "height": 2931,
+                "url": "https://m.media-amazon.com/images/M/MV5BODU4YmIxYzItYTdjYy00NmQ3LWJkYmQtM2UwZGZjNjZhMjYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+                "caption": {
+                    "plainText": "Flesh Gordon Meets the Cosmic Cheerleaders (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Flesh Gordon Meets the Cosmic Cheerleaders",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Flesh Gordon Meets the Cosmic Cheerleaders",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 11,
+                "month": 7,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814ab597b91eb9415dab",
+            "id": "tt0097062",
+            "primaryImage": {
+                "id": "rm3174046464",
+                "width": 808,
+                "height": 998,
+                "url": "https://m.media-amazon.com/images/M/MV5BNzVmMjdiYjUtZDlmZC00MGRkLThkN2YtYmI1MjllZGU0MzA3XkEyXkFqcGdeQXVyMjQ0MzY3ODc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Chyornaya roza - emblema pechali, krasnaya roza - emblema lyubvi (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Chyornaya roza - emblema pechali, krasnaya roza - emblema lyubvi",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Chyornaya roza - emblema pechali, krasnaya roza - emblema lyubvi",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": null,
+                "month": 1,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814acffb8f2faa415d91",
+            "id": "tt0097644",
+            "primaryImage": {
+                "id": "rm3894352384",
+                "width": 407,
+                "height": 588,
+                "url": "https://m.media-amazon.com/images/M/MV5BYjdlMDk4ZmUtNDY5ZS00ZTNmLWJhMWEtMTFiMWFiODAxOWYwXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Kapital, czyli jak zrobic pieniadze w Polsce (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Kapital, czyli jak zrobic pieniadze w Polsce",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Kapital, czyli jak zrobic pieniadze w Polsce",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 12,
+                "month": 2,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814b8a5a6a599f415d73",
+            "id": "tt0097802",
+            "primaryImage": {
+                "id": "rm3646523649",
+                "width": 895,
+                "height": 1200,
+                "url": "https://m.media-amazon.com/images/M/MV5BMTFjYTY0NTUtM2EyZi00ZTZmLTk5YWQtZDM3NWM2OGVmMTAzXkEyXkFqcGdeQXVyMjE4NzY3Mw@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Mado, poste restante (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Mado, poste restante",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Mado, poste restante",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 3,
+                "month": 10,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814b909c2ca781415d69",
+            "id": "tt0097994",
+            "primaryImage": {
+                "id": "rm1490376448",
+                "width": 800,
+                "height": 1206,
+                "url": "https://m.media-amazon.com/images/M/MV5BMGVmN2Y1Y2UtOTE2ZS00ZDlmLTg3NjMtYTU4OTQxZmNlNTBhXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Nobody's Perfect (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Nobody's Perfect",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Nobody's Perfect",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 28,
+                "month": 6,
+                "year": 1991,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814b95801a78bc415d6d",
+            "id": "tt0097968",
+            "primaryImage": {
+                "id": "rm2617377536",
+                "width": 684,
+                "height": 981,
+                "url": "https://m.media-amazon.com/images/M/MV5BN2FmMjgzM2EtYTYwOC00ZDA5LWE3ZWQtMzAyYWFmNWZmMjdmXkEyXkFqcGdeQXVyMjIxMzMyMQ@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Nezn\u00fd barbar (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Nezn\u00fd barbar",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Nezn\u00fd barbar",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 20,
+                "month": 9,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814ba66e596423415da1",
+            "id": "tt0098064",
+            "primaryImage": {
+                "id": "rm624890624",
+                "width": 710,
+                "height": 1000,
+                "url": "https://m.media-amazon.com/images/M/MV5BYTAzMmM3Y2YtZmM2NS00MzkxLTg2ZTAtNjc3ZDNkYjg4YTgzXkEyXkFqcGdeQXVyMTQwNTM3OTI@._V1_.jpg",
+                "caption": {
+                    "plainText": "Pareja enloquecida busca madre de alquiler (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Pareja enloquecida busca madre de alquiler",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Pareja enloquecida busca madre de alquiler",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 27,
+                "month": 4,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814ba66e596423415da9",
+            "id": "tt0097176",
+            "primaryImage": {
+                "id": "rm1778258688",
+                "width": 4022,
+                "height": 6209,
+                "url": "https://m.media-amazon.com/images/M/MV5BNDEwYjNlZDEtYTBjMy00OTEzLTg4YTAtODQ5NGQzZDgwYTljXkEyXkFqcGdeQXVyMTM0ODIzMA@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Samantha Phillips and Norbert Weisser in Deceit (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Deceit",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Deceit",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 21,
+                "month": 8,
+                "year": 1992,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814ba66e596423415dad",
+            "id": "tt0097619",
+            "primaryImage": {
+                "id": "rm3776683776",
+                "width": 350,
+                "height": 475,
+                "url": "https://m.media-amazon.com/images/M/MV5BMTk1MTY1MTIxOV5BMl5BanBnXkFtZTcwMjE4MTcxMQ@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Gat seng gung ziu (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Gat seng gung ziu",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Gat seng gung ziu",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 18,
+                "month": 1,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814bcffb8f2faa415d9f",
+            "id": "tt0098294",
+            "primaryImage": {
+                "id": "rm641207552",
+                "width": 503,
+                "height": 803,
+                "url": "https://m.media-amazon.com/images/M/MV5BY2U2YTc2YjAtODMzZi00NTBmLTg5ZjEtYmFlZTkwYjJmZjU1XkEyXkFqcGdeQXVyMDk2Mzc2MA@@._V1_.jpg",
+                "caption": {
+                    "plainText": "La settimana della sfinge (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "La settimana della sfinge",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "La settimana della sfinge",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 12,
+                "month": 10,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814bd735dff3f9415cff",
+            "id": "tt0097638",
+            "primaryImage": {
+                "id": "rm351042560",
+                "width": 550,
+                "height": 794,
+                "url": "https://m.media-amazon.com/images/M/MV5BY2IwNzY0MGYtYjZhMy00MjM0LTliMWQtNzIzOTRiMDAwMTBjXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Hoi sum gwai gau hoi sum gwai (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Hoi sum gwai gau hoi sum gwai",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Hoi sum gwai gau hoi sum gwai",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 30,
+                "month": 6,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814bef99b1c543415d43",
+            "id": "tt0098136",
+            "primaryImage": {
+                "id": "rm3786268672",
+                "width": 580,
+                "height": 873,
+                "url": "https://m.media-amazon.com/images/M/MV5BOGE5MTRiNGUtOTQwYi00MTViLWJkOGQtYmU0NmRiZDEzZWJiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+                "caption": {
+                    "plainText": "Prom Night III: The Last Kiss (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Prom Night III: The Last Kiss",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Prom Night III: The Last Kiss",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 11,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814c8a5a6a599f415db1",
+            "id": "tt0097106",
+            "primaryImage": {
+                "id": "rm132655616",
+                "width": 600,
+                "height": 800,
+                "url": "https://m.media-amazon.com/images/M/MV5BMDMzYTc4ZDctZTgyYi00YjNlLWEzMDgtMGEyYTEwOGVlMjc3XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_.jpg",
+                "caption": {
+                    "plainText": "Conte de printemps (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Conte de printemps",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Conte de printemps",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 22,
+                "month": 2,
+                "year": 1991,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814c909c2ca781415db9",
+            "id": "tt0097394",
+            "primaryImage": {
+                "id": "rm3288112384",
+                "width": 274,
+                "height": 475,
+                "url": "https://m.media-amazon.com/images/M/MV5BMTY5MzI3NTA2Ml5BMl5BanBnXkFtZTcwNzQ3MDQyMQ@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Fu gui bing tuan (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Fu gui bing tuan",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Fu gui bing tuan",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 19,
+                "month": 1,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814c95801a78bc415db3",
+            "id": "tt0096875",
+            "primaryImage": {
+                "id": "rm207993601",
+                "width": 721,
+                "height": 1144,
+                "url": "https://m.media-amazon.com/images/M/MV5BZWRmOGQxODgtNmRhYy00NzczLThlZTEtNWY1YTAwYmNmMGYyXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_.jpg",
+                "caption": {
+                    "plainText": "Jodie Foster and Dennis Hopper in Catchfire (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Catchfire",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Catchfire",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 3,
+                "month": 4,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814ccffb8f2faa415dbf",
+            "id": "tt0096075",
+            "primaryImage": {
+                "id": "rm1269507584",
+                "width": 750,
+                "height": 1020,
+                "url": "https://m.media-amazon.com/images/M/MV5BYzkyZWQ0NjktNzliZS00N2Q3LWIxYTctNGJiNjc5Njg4ZjNkXkEyXkFqcGdeQXVyODA0MDYwNzU@._V1_.jpg",
+                "caption": {
+                    "plainText": "Ruth Collins in Sexpot (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Sexpot",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Sexpot",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 11,
+                "year": 1988,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814ce1a8ddbd96415e03",
+            "id": "tt0096879",
+            "primaryImage": {
+                "id": "rm2114131968",
+                "width": 691,
+                "height": 477,
+                "url": "https://m.media-amazon.com/images/M/MV5BNDkwOWY2ODMtMTc3Yi00YTljLWEyZmUtZjBmYWNjMzVhNWFiXkEyXkFqcGdeQXVyNjIxMzk1NA@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Bal na dworcu w Koluszkach (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Bal na dworcu w Koluszkach",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Bal na dworcu w Koluszkach",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 2,
+                "month": 4,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814ce1a8ddbd96415e0d",
+            "id": "tt0096860",
+            "primaryImage": {
+                "id": "rm2625058560",
+                "width": 1319,
+                "height": 1773,
+                "url": "https://m.media-amazon.com/images/M/MV5BNWY4NDQwMzgtZDBmMS00ODc5LTljNGUtNjIwM2U2MzcyZmFiXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+                "caption": {
+                    "plainText": "L'aventure extraordinaire d'un papa peu ordinaire (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "L'aventure extraordinaire d'un papa peu ordinaire",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "L'aventure extraordinaire d'un papa peu ordinaire",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 23,
+                "month": 5,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814d95801a78bc415de5",
+            "id": "tt0096859",
+            "primaryImage": {
+                "id": "rm3836809472",
+                "width": 500,
+                "height": 720,
+                "url": "https://m.media-amazon.com/images/M/MV5BMjQxN2Q3ZGEtMTczMC00N2RiLTg5OTAtYTFiNzI0MDk4NDJhXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+                "caption": {
+                    "plainText": "L'avaro (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "L'avaro",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "L'avaro",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 6,
+                "month": 4,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814e909c2ca781415df5",
+            "id": "tt0097049",
+            "primaryImage": {
+                "id": "rm1148118016",
+                "width": 600,
+                "height": 849,
+                "url": "https://m.media-amazon.com/images/M/MV5BNTU4YjExMTgtOWIwMy00NDBmLWFhN2ItZDZlNTU1NzVhODdiXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Dmitriy Kharatyan in Chastnyy detektiv, ili operatsiya 'Kooperatsiya' (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Chastnyy detektiv, ili operatsiya 'Kooperatsiya'",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Chastnyy detektiv, ili operatsiya 'Kooperatsiya'",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": null,
+                "month": 11,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814e95801a78bc415df7",
+            "id": "tt0098429",
+            "primaryImage": {
+                "id": "rm3468964096",
+                "width": 720,
+                "height": 988,
+                "url": "https://m.media-amazon.com/images/M/MV5BNjJkNjRlNDctZThjNi00ODdlLTk3NGUtMzNkNGExMzI4ZjI1XkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Tahiti's Girl (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Tahiti's Girl",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Tahiti's Girl",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 2,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814eb597b91eb9415e61",
+            "id": "tt0097525",
+            "primaryImage": null,
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Hopnick",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Hopnick",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 7,
+                "month": 6,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814ed8f3c0931e415e11",
+            "id": "tt0097405",
+            "primaryImage": {
+                "id": "rm451874816",
+                "width": 600,
+                "height": 800,
+                "url": "https://m.media-amazon.com/images/M/MV5BYmNkYjNlN2EtNzZhZS00MjRhLWE0NzQtYzQyOWM3NTc0NmU0XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+                "caption": {
+                    "plainText": "La f\u00eate des p\u00e8res (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "La f\u00eate des p\u00e8res",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "La f\u00eate des p\u00e8res",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 14,
+                "month": 3,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814f8a5a6a599f415e19",
+            "id": "tt0099044",
+            "primaryImage": {
+                "id": "rm1267002368",
+                "width": 1013,
+                "height": 1500,
+                "url": "https://m.media-amazon.com/images/M/MV5BNTAzOTE4MzgwNV5BMl5BanBnXkFtZTgwNDgwNTg4NjE@._V1_.jpg",
+                "caption": {
+                    "plainText": "Eddie Murphy and Nick Nolte in Another 48 Hrs. (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Another 48 Hrs.",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Another 48 Hrs.",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 31,
+                "month": 8,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814f909c2ca781415e1f",
+            "id": "tt0099180",
+            "primaryImage": {
+                "id": "rm3057050624",
+                "width": 1961,
+                "height": 2959,
+                "url": "https://m.media-amazon.com/images/M/MV5BZWQ0Njg5NDktYjNkZS00OTQwLTk3YjgtZjViOGM3YjQxZmJiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+                "caption": {
+                    "plainText": "Jeffrey Combs and Kathleen Kinmont in Bride of Re-Animator (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Bride of Re-Animator",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Bride of Re-Animator",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 8,
+                "month": 7,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814f971a4a15d6415e63",
+            "id": "tt0099100",
+            "primaryImage": {
+                "id": "rm663617792",
+                "width": 1920,
+                "height": 2880,
+                "url": "https://m.media-amazon.com/images/M/MV5BMzc0YzQ0NzAtZGUwOS00ZGQ2LWE5NjEtNTcyZWM0N2M3NGQxXkEyXkFqcGdeQXVyNTMwMjMzMDE@._V1_.jpg",
+                "caption": {
+                    "plainText": "Bananen - Skr\u00e6l den f\u00f8r din nabo (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Bananen - Skr\u00e6l den f\u00f8r din nabo",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Bananen - Skr\u00e6l den f\u00f8r din nabo",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 16,
+                "month": 11,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814fd8f3c0931e415e29",
+            "id": "tt0098150",
+            "primaryImage": {
+                "id": "rm3203234816",
+                "width": 390,
+                "height": 593,
+                "url": "https://m.media-amazon.com/images/M/MV5BOTFiMzNhNjItYmZiZi00YzQ2LTg1MDQtY2ExNzY3ZTI0YjRmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Ching-Ying Lam, Wilson Lam, Kiu Wai Miu, Michiko Nishiwaki, and Wu Ma in Qu mo jing cha (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Qu mo jing cha",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Qu mo jing cha",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 2,
+                "month": 11,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5814fef99b1c543415e01",
+            "id": "tt0097550",
+            "primaryImage": {
+                "id": "rm2518447872",
+                "width": 1062,
+                "height": 1500,
+                "url": "https://m.media-amazon.com/images/M/MV5BM2NjMmJhOGUtOGZiZC00YTUxLWFiMDItNWE5MjdkMTRjMzA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+                "caption": {
+                    "plainText": "Anthony Daniels, Michael Elphick, Neil Morrissey, and Amanda Noar in I Bought a Vampire Motorcycle (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "I Bought a Vampire Motorcycle",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "I Bought a Vampire Motorcycle",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 6,
+                "month": 7,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58150b597b91eb9415ea7",
+            "id": "tt0098658",
+            "primaryImage": {
+                "id": "rm3165266432",
+                "width": 800,
+                "height": 1136,
+                "url": "https://m.media-amazon.com/images/M/MV5BMjhjY2EwMTQtOTdiMC00NmE1LTkwODYtY2YxNDdmODY3ZmQzXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_.jpg",
+                "caption": {
+                    "plainText": "Wings of Fame (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Wings of Fame",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Wings of Fame",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 23,
+                "month": 3,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58150cffb8f2faa415e8b",
+            "id": "tt0098050",
+            "primaryImage": {
+                "id": "rm964237312",
+                "width": 320,
+                "height": 449,
+                "url": "https://m.media-amazon.com/images/M/MV5BMTc5ZjkwNGUtZmVlZS00NTZmLWJlOTctYjZkODg2MmNlZWRhXkEyXkFqcGdeQXVyNjU3MDAwMTc@._V1_.jpg",
+                "caption": {
+                    "plainText": "Ovejas negras (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Ovejas negras",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Ovejas negras",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 4,
+                "month": 5,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58150ef99b1c543415e31",
+            "id": "tt0097884",
+            "primaryImage": {
+                "id": "rm2900069889",
+                "width": 890,
+                "height": 1200,
+                "url": "https://m.media-amazon.com/images/M/MV5BNjFjMjE2NDAtNWMzMS00ZTUyLWJhYmMtNzFiNmFiYTg3Y2EzXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_.jpg",
+                "caption": {
+                    "plainText": "Milou en mai (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Milou en mai",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Milou en mai",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 24,
+                "month": 1,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5815178c012aa34415e75",
+            "id": "tt0099178",
+            "primaryImage": {
+                "id": "rm2457267968",
+                "width": 624,
+                "height": 1105,
+                "url": "https://m.media-amazon.com/images/M/MV5BMTk0MTU4MTYxMl5BMl5BanBnXkFtZTgwNzAwMTg3NjE@._V1_.jpg",
+                "caption": {
+                    "plainText": "Marilyn Chambers in Breakfast in Bed (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Breakfast in Bed",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Breakfast in Bed",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": null
+        },
+        {
+            "_id": "61e581518a5a6a599f415e87",
+            "id": "tt0098514",
+            "primaryImage": null,
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Trois ann\u00e9es",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Trois ann\u00e9es",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 29,
+                "month": 8,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e581518a5a6a599f415e99",
+            "id": "tt0099038",
+            "primaryImage": {
+                "id": "rm3799972097",
+                "width": 800,
+                "height": 1200,
+                "url": "https://m.media-amazon.com/images/M/MV5BZmJjZmFiZDQtYTZlZS00YzFlLWIwYzctYjVmMzlhZWI3YzY3XkEyXkFqcGdeQXVyNTE1MDE2MzY@._V1_.jpg",
+                "caption": {
+                    "plainText": "Anekdoty (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Anekdoty",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Anekdoty",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 5,
+                "month": 8,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5815195801a78bc415e9d",
+            "id": "tt0098532",
+            "primaryImage": {
+                "id": "rm123041280",
+                "width": 845,
+                "height": 1200,
+                "url": "https://m.media-amazon.com/images/M/MV5BMmM1ZTZhNDUtYzBkNi00YzQ0LWEyZjItM2M5OTI2ZTU0MDlkXkEyXkFqcGdeQXVyMjI0MjMwMzQ@._V1_.jpg",
+                "caption": {
+                    "plainText": "Kati Outinen in Tulitikkutehtaan tytt\u00f6 (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Tulitikkutehtaan tytt\u00f6",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Tulitikkutehtaan tytt\u00f6",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 23,
+                "month": 11,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58151971a4a15d6415ee7",
+            "id": "tt0098606",
+            "primaryImage": {
+                "id": "rm1477668096",
+                "width": 709,
+                "height": 1000,
+                "url": "https://m.media-amazon.com/images/M/MV5BOGEwN2FiYmEtNWI5Ni00ODJkLWI4NzQtN2QwMmY0NmFiZTA4XkEyXkFqcGdeQXVyMzIwNDY4NDI@._V1_.jpg",
+                "caption": {
+                    "plainText": "La voce della luna (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "La voce della luna",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "La voce della luna",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 1,
+                "month": 2,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58151971a4a15d6415ee9",
+            "id": "tt0099421",
+            "primaryImage": {
+                "id": "rm4179363584",
+                "width": 409,
+                "height": 581,
+                "url": "https://m.media-amazon.com/images/M/MV5BYjg1ZGViMTUtMzYxZC00MmJmLWE1ODYtYjk4ZDhiN2UzNTQ5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQ3Njg3MQ@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Dicembre (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Dicembre",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Dicembre",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 14,
+                "month": 9,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58151cffb8f2faa415ec3",
+            "id": "tt0098920",
+            "primaryImage": {
+                "id": "rm1435703296",
+                "width": 322,
+                "height": 460,
+                "url": "https://m.media-amazon.com/images/M/MV5BYmY2ZjBmMmQtZmI4MS00NDI3LTlmZGYtYWIzYTRjZDcyNzViXkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_.jpg",
+                "caption": {
+                    "plainText": "Swinka (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Swinka",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Swinka",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 29,
+                "month": 3,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58151d735dff3f9415e2f",
+            "id": "tt0099228",
+            "primaryImage": {
+                "id": "rm1159163136",
+                "width": 2048,
+                "height": 1368,
+                "url": "https://m.media-amazon.com/images/M/MV5BNjJlMTJjMjUtZTgwOS00Zjg3LWFkNjItMTVkMmY1MTgzZGJmXkEyXkFqcGdeQXVyNDYxOTY1Njg@._V1_.jpg",
+                "caption": {
+                    "plainText": "Allan Olsen, Mek Pek, and Else Petersen in Casanova (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Casanova",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Casanova",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 7,
+                "month": 12,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e58151ef99b1c543415e4b",
+            "id": "tt0098244",
+            "primaryImage": {
+                "id": "rm1490656513",
+                "width": 694,
+                "height": 1021,
+                "url": "https://m.media-amazon.com/images/M/MV5BYTExZDhlZWItY2U4My00Y2UzLTllYzctNzM5YjBhYzI4ODRjXkEyXkFqcGdeQXVyMzIzNDU1NTY@._V1_.jpg",
+                "caption": {
+                    "plainText": "Sabato, domenica e luned\u00ec (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "Sabato, domenica e luned\u00ec",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "Sabato, domenica e luned\u00ec",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 11,
+                "month": 1,
+                "year": 1992,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5815278c012aa34415e85",
+            "id": "tt0099026",
+            "primaryImage": {
+                "id": "rm3132568576",
+                "width": 580,
+                "height": 869,
+                "url": "https://m.media-amazon.com/images/M/MV5BMmFlMzdlYWQtMzFhZi00YWY1LWIxMzctMTQ2NjNkZjE5ZTJhXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_.jpg",
+                "caption": {
+                    "plainText": "The Ambulance (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "The Ambulance",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "The Ambulance",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 19,
+                "month": 10,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        },
+        {
+            "_id": "61e5815278c012aa34415e89",
+            "id": "tt0099831",
+            "primaryImage": {
+                "id": "rm3052135680",
+                "width": 800,
+                "height": 1104,
+                "url": "https://m.media-amazon.com/images/M/MV5BMjExNjUzMDY1N15BMl5BanBnXkFtZTgwODAyMDA5NzE@._V1_.jpg",
+                "caption": {
+                    "plainText": "The Imported Bridegroom (1990)",
+                    "__typename": "Markdown"
+                },
+                "__typename": "Image"
+            },
+            "titleType": {
+                "text": "Movie",
+                "id": "movie",
+                "isSeries": false,
+                "isEpisode": false,
+                "__typename": "TitleType"
+            },
+            "titleText": {
+                "text": "The Imported Bridegroom",
+                "__typename": "TitleText"
+            },
+            "originalTitleText": {
+                "text": "The Imported Bridegroom",
+                "__typename": "TitleText"
+            },
+            "releaseYear": {
+                "year": 1990,
+                "endYear": null,
+                "__typename": "YearRange"
+            },
+            "releaseDate": {
+                "day": 16,
+                "month": 3,
+                "year": 1990,
+                "__typename": "ReleaseDate"
+            }
+        }
+    ]
+}
